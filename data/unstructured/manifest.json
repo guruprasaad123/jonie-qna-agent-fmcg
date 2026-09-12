@@ -1,0 +1,606 @@
+{
+  "documents": [
+    {
+      "doc_id": "DOC-001",
+      "file": "DOC-001.md",
+      "title": "AB InBev Announces Corona Cero as Worldwide Olympic Partner",
+      "date": "2025-01-15",
+      "source_type": "press_release",
+      "tags": [
+        "olympics",
+        "non_alcoholic",
+        "beyond_beer",
+        "global_partnership"
+      ],
+      "brands": [
+        "Corona Cero",
+        "Corona"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Belgium",
+        "Mexico"
+      ]
+    },
+    {
+      "doc_id": "DOC-002",
+      "file": "DOC-002.md",
+      "title": "Q1 2025 Earnings Commentary: Corona Cero Acceleration in Europe and Mexico",
+      "date": "2025-04-30",
+      "source_type": "earnings_commentary",
+      "tags": [
+        "earnings",
+        "non_alcoholic",
+        "beyond_beer",
+        "growth"
+      ],
+      "brands": [
+        "Corona Cero"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Mexico",
+        "Belgium"
+      ]
+    },
+    {
+      "doc_id": "DOC-003",
+      "file": "DOC-003.md",
+      "title": "Market Research Note: The Moderation Mega-Trend and No/Low Alcohol Beer",
+      "date": "2025-06-20",
+      "source_type": "market_research",
+      "tags": [
+        "consumer_trend",
+        "non_alcoholic",
+        "moderation",
+        "gen_z"
+      ],
+      "brands": [
+        "Corona Cero"
+      ],
+      "countries": [
+        "United Kingdom",
+        "United States",
+        "Mexico"
+      ]
+    },
+    {
+      "doc_id": "DOC-004",
+      "file": "DOC-004.md",
+      "title": "AB InBev's BEES Platform Surpasses $35 Billion in Annualized Gross Merchandise Value",
+      "date": "2025-02-18",
+      "source_type": "press_release",
+      "tags": [
+        "bees",
+        "digital_transformation",
+        "b2b_platform",
+        "traditional_trade"
+      ],
+      "brands": [
+        "Brahma",
+        "Corona",
+        "Budweiser"
+      ],
+      "countries": [
+        "Brazil",
+        "Mexico",
+        "China"
+      ]
+    },
+    {
+      "doc_id": "DOC-005",
+      "file": "DOC-005.md",
+      "title": "Strategy Memo: Modernizing the Traditional Trade via the BEES Ecosystem",
+      "date": "2025-05-12",
+      "source_type": "strategy_memo",
+      "tags": [
+        "bees",
+        "traditional_trade",
+        "route_to_market",
+        "digital"
+      ],
+      "brands": [
+        "Brahma",
+        "Bud Light"
+      ],
+      "countries": [
+        "Brazil",
+        "Mexico"
+      ]
+    },
+    {
+      "doc_id": "DOC-006",
+      "file": "DOC-006.md",
+      "title": "Q2 2025 Earnings Commentary: Digital Route-to-Market Highlights",
+      "date": "2025-07-28",
+      "source_type": "earnings_commentary",
+      "tags": [
+        "earnings",
+        "bees",
+        "digital_sales",
+        "traditional_trade"
+      ],
+      "brands": [
+        "Brahma",
+        "Corona"
+      ],
+      "countries": [
+        "Brazil",
+        "Mexico",
+        "India"
+      ]
+    },
+    {
+      "doc_id": "DOC-007",
+      "file": "DOC-007.md",
+      "title": "Michelob ULTRA Expands Premium Active Footprint into Mexico and Canada",
+      "date": "2025-03-22",
+      "source_type": "press_release",
+      "tags": [
+        "michelob_ultra",
+        "premiumization",
+        "active_lifestyle"
+      ],
+      "brands": [
+        "Michelob ULTRA"
+      ],
+      "countries": [
+        "United States",
+        "Mexico",
+        "Canada"
+      ]
+    },
+    {
+      "doc_id": "DOC-008",
+      "file": "DOC-008.md",
+      "title": "Market Research Note: Premium Light & Wellness Positioning in North America",
+      "date": "2025-06-08",
+      "source_type": "market_research",
+      "tags": [
+        "consumer_trend",
+        "wellness",
+        "premium_light"
+      ],
+      "brands": [
+        "Michelob ULTRA",
+        "Bud Light"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ]
+    },
+    {
+      "doc_id": "DOC-009",
+      "file": "DOC-009.md",
+      "title": "Q3 2025 Earnings Commentary: Michelob ULTRA Profitability and Volume Surge",
+      "date": "2025-10-29",
+      "source_type": "earnings_commentary",
+      "tags": [
+        "earnings",
+        "michelob_ultra",
+        "margin_expansion"
+      ],
+      "brands": [
+        "Michelob ULTRA"
+      ],
+      "countries": [
+        "United States",
+        "Mexico"
+      ]
+    },
+    {
+      "doc_id": "DOC-010",
+      "file": "DOC-010.md",
+      "title": "TaDa Delivery Reaches 25 Million Annual Orders in South America",
+      "date": "2025-04-14",
+      "source_type": "press_release",
+      "tags": [
+        "tada_delivery",
+        "d2c",
+        "e_commerce",
+        "cold_beer"
+      ],
+      "brands": [
+        "Brahma",
+        "Corona",
+        "Budweiser"
+      ],
+      "countries": [
+        "Brazil",
+        "Mexico"
+      ]
+    },
+    {
+      "doc_id": "DOC-011",
+      "file": "DOC-011.md",
+      "title": "Earnings Call Commentary: Direct-to-Consumer Insights & Occasion Capture",
+      "date": "2025-08-05",
+      "source_type": "earnings_commentary",
+      "tags": [
+        "earnings",
+        "d2c",
+        "tada_delivery",
+        "consumer_insights"
+      ],
+      "brands": [
+        "Corona",
+        "Brahma"
+      ],
+      "countries": [
+        "Brazil",
+        "Mexico"
+      ]
+    },
+    {
+      "doc_id": "DOC-012",
+      "file": "DOC-012.md",
+      "title": "AB InBev Reaches 100% Renewable Electricity at Key Breweries in Belgium and Brazil",
+      "date": "2025-02-25",
+      "source_type": "sustainability",
+      "tags": [
+        "sustainability",
+        "esg",
+        "renewable_energy",
+        "net_zero"
+      ],
+      "brands": [
+        "Stella Artois",
+        "Brahma"
+      ],
+      "countries": [
+        "Belgium",
+        "Brazil"
+      ]
+    },
+    {
+      "doc_id": "DOC-013",
+      "file": "DOC-013.md",
+      "title": "Sustainability Update: Watershed Protection and Water Stewardship in Mexico",
+      "date": "2025-05-20",
+      "source_type": "sustainability",
+      "tags": [
+        "sustainability",
+        "esg",
+        "water_stewardship",
+        "watershed"
+      ],
+      "brands": [
+        "Corona"
+      ],
+      "countries": [
+        "Mexico",
+        "United States"
+      ]
+    },
+    {
+      "doc_id": "DOC-014",
+      "file": "DOC-014.md",
+      "title": "Strategy Memo: Circular Packaging and Net-Zero Carbon Brewery Roadmap",
+      "date": "2025-09-14",
+      "source_type": "strategy_memo",
+      "tags": [
+        "sustainability",
+        "esg",
+        "packaging",
+        "circular_economy"
+      ],
+      "brands": [
+        "Corona",
+        "Stella Artois"
+      ],
+      "countries": [
+        "Belgium",
+        "United Kingdom",
+        "United States"
+      ]
+    },
+    {
+      "doc_id": "DOC-015",
+      "file": "DOC-015.md",
+      "title": "Budweiser Renews Official Sponsorship for the 2026 FIFA World Cup in North America",
+      "date": "2024-11-10",
+      "source_type": "press_release",
+      "tags": [
+        "budweiser",
+        "sponsorship",
+        "fifa_world_cup",
+        "sports_marketing"
+      ],
+      "brands": [
+        "Budweiser",
+        "Bud Light"
+      ],
+      "countries": [
+        "United States",
+        "Mexico",
+        "Canada"
+      ]
+    },
+    {
+      "doc_id": "DOC-016",
+      "file": "DOC-016.md",
+      "title": "Earnings Commentary: Brand Equity and Sponsorship ROI Across Global Megabrands",
+      "date": "2025-08-22",
+      "source_type": "earnings_commentary",
+      "tags": [
+        "earnings",
+        "marketing_spend",
+        "brand_equity",
+        "roi"
+      ],
+      "brands": [
+        "Budweiser",
+        "Corona"
+      ],
+      "countries": [
+        "United States",
+        "China",
+        "United Kingdom"
+      ]
+    },
+    {
+      "doc_id": "DOC-017",
+      "file": "DOC-017.md",
+      "title": "Earnings Review: Disciplined Revenue Management Drives Net Revenue per Hectoliter Growth",
+      "date": "2025-04-18",
+      "source_type": "earnings_commentary",
+      "tags": [
+        "earnings",
+        "pricing",
+        "asp",
+        "revenue_management"
+      ],
+      "brands": [
+        "Budweiser",
+        "Stella Artois",
+        "Corona"
+      ],
+      "countries": [
+        "United States",
+        "Brazil",
+        "Belgium"
+      ]
+    },
+    {
+      "doc_id": "DOC-018",
+      "file": "DOC-018.md",
+      "title": "Strategy Memo: Pack-Price Architecture and Promo Spend Effectiveness",
+      "date": "2025-07-10",
+      "source_type": "strategy_memo",
+      "tags": [
+        "pricing",
+        "pack_price_architecture",
+        "promo_spend",
+        "profitability"
+      ],
+      "brands": [
+        "Corona",
+        "Bud Light"
+      ],
+      "countries": [
+        "United States",
+        "Mexico"
+      ]
+    },
+    {
+      "doc_id": "DOC-019",
+      "file": "DOC-019.md",
+      "title": "Competitive Intelligence: Heineken NV Expansion in European Premium and 0.0%",
+      "date": "2025-03-14",
+      "source_type": "competitor_intel",
+      "tags": [
+        "competitor",
+        "heineken",
+        "europe",
+        "market_intelligence"
+      ],
+      "brands": [
+        "Corona",
+        "Corona Cero",
+        "Stella Artois"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Belgium"
+      ]
+    },
+    {
+      "doc_id": "DOC-020",
+      "file": "DOC-020.md",
+      "title": "Competitive Intelligence: Carlsberg Group European and Asian Footprint",
+      "date": "2025-05-29",
+      "source_type": "competitor_intel",
+      "tags": [
+        "competitor",
+        "carlsberg",
+        "asia",
+        "market_intelligence"
+      ],
+      "brands": [
+        "Budweiser",
+        "Hoegaarden"
+      ],
+      "countries": [
+        "China",
+        "India"
+      ]
+    },
+    {
+      "doc_id": "DOC-021",
+      "file": "DOC-021.md",
+      "title": "Competitive Intelligence: Molson Coors and US Light Beer Dynamics",
+      "date": "2025-09-18",
+      "source_type": "competitor_intel",
+      "tags": [
+        "competitor",
+        "molson_coors",
+        "united_states",
+        "market_intelligence"
+      ],
+      "brands": [
+        "Bud Light",
+        "Michelob ULTRA"
+      ],
+      "countries": [
+        "United States",
+        "Canada"
+      ]
+    },
+    {
+      "doc_id": "DOC-022",
+      "file": "DOC-022.md",
+      "title": "Returnable Glass Bottle Initiative Expands Across Latin America",
+      "date": "2025-06-25",
+      "source_type": "sustainability",
+      "tags": [
+        "sustainability",
+        "packaging",
+        "circular_economy",
+        "latin_america"
+      ],
+      "brands": [
+        "Brahma",
+        "Corona"
+      ],
+      "countries": [
+        "Brazil",
+        "Mexico"
+      ]
+    },
+    {
+      "doc_id": "DOC-023",
+      "file": "DOC-023.md",
+      "title": "Market Research Note: Consumer Economics of Returnable Packaging in Brazil",
+      "date": "2025-08-12",
+      "source_type": "market_research",
+      "tags": [
+        "consumer_insights",
+        "returnable_glass",
+        "traditional_trade"
+      ],
+      "brands": [
+        "Brahma"
+      ],
+      "countries": [
+        "Brazil"
+      ]
+    },
+    {
+      "doc_id": "DOC-024",
+      "file": "DOC-024.md",
+      "title": "Hoegaarden Wheat Beer Accelerates Premium Venue Growth Across China and India",
+      "date": "2025-04-08",
+      "source_type": "press_release",
+      "tags": [
+        "hoegaarden",
+        "craft_specialty",
+        "asia",
+        "premiumization"
+      ],
+      "brands": [
+        "Hoegaarden"
+      ],
+      "countries": [
+        "China",
+        "India"
+      ]
+    },
+    {
+      "doc_id": "DOC-025",
+      "file": "DOC-025.md",
+      "title": "Market Research: Craft & Specialty Beer Pairing Trends in APAC",
+      "date": "2025-07-18",
+      "source_type": "market_research",
+      "tags": [
+        "craft_specialty",
+        "dining",
+        "pairing",
+        "asia"
+      ],
+      "brands": [
+        "Hoegaarden",
+        "Corona"
+      ],
+      "countries": [
+        "China",
+        "India"
+      ]
+    },
+    {
+      "doc_id": "DOC-026",
+      "file": "DOC-026.md",
+      "title": "Stella Artois Draught Expansion and On-Premise Recovery in the UK",
+      "date": "2025-09-30",
+      "source_type": "earnings_commentary",
+      "tags": [
+        "stella_artois",
+        "on_premise",
+        "draught",
+        "united_kingdom"
+      ],
+      "brands": [
+        "Stella Artois"
+      ],
+      "countries": [
+        "United Kingdom",
+        "Belgium"
+      ]
+    },
+    {
+      "doc_id": "DOC-027",
+      "file": "DOC-027.md",
+      "title": "Strategy Memo: Global Megabrands as the Engine of Margin Expansion",
+      "date": "2025-10-15",
+      "source_type": "strategy_memo",
+      "tags": [
+        "global_megabrands",
+        "premiumization",
+        "ebitda_growth"
+      ],
+      "brands": [
+        "Budweiser",
+        "Stella Artois",
+        "Corona",
+        "Michelob ULTRA"
+      ],
+      "countries": [
+        "United States",
+        "Mexico",
+        "Brazil",
+        "China",
+        "United Kingdom"
+      ]
+    },
+    {
+      "doc_id": "DOC-028",
+      "file": "DOC-028.md",
+      "title": "Annual Corporate Summary: Full-Year Operational and Financial Highlights",
+      "date": "2025-12-10",
+      "source_type": "earnings_commentary",
+      "tags": [
+        "annual_review",
+        "global_performance",
+        "summary"
+      ],
+      "brands": [
+        "Corona",
+        "Budweiser",
+        "Brahma",
+        "Michelob ULTRA",
+        "Stella Artois",
+        "Corona Cero"
+      ],
+      "countries": [
+        "United States",
+        "Mexico",
+        "Brazil",
+        "China",
+        "United Kingdom",
+        "Belgium",
+        "Canada",
+        "India"
+      ]
+    }
+  ]
+}
